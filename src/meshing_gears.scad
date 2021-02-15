@@ -64,7 +64,6 @@
 
 include <MCAD/involute_gears.scad>
 
-herringbone_gear();
 
 module spur_gear(pitch_diameter=100,
                     bore_diameter=10,
